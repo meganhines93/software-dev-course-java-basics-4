@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b13f8ccd-818d-4d2e-a680-214593580794" name="Changes" comment="Added example exercise and improved instructions." />
+    <list default="true" id="b13f8ccd-818d-4d2e-a680-214593580794" name="Changes" comment="Added example exercise and improved instructions.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CollectionExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StudentManager.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +24,77 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "meganhines93"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/meganhines93/software-dev-course-java-basics-4.git",
+    "accountId": "a6c76052-6295-4ca5-9023-e6911debadd2"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="6.266728015443989E-4" />
+      <entry key="MS500" value="0.22919029623775689" />
+      <entry key="S2" value="0.8998046129530364" />
+      <entry key="S5" value="1.9679544414292331" />
+      <entry key="S10" value="3.0489885815929396" />
+      <entry key="S30" value="6.409635663143225" />
+      <entry key="S60" value="13.459970987352664" />
+      <entry key="M2" value="26.300111526405313" />
+      <entry key="M5" value="49.880435570596966" />
+      <entry key="M10" value="73.2473123699818" />
+      <entry key="M15" value="87.72777782923771" />
+      <entry key="M30" value="109.1492977807588" />
+      <entry key="H1" value="123.76227037258343" />
+      <entry key="H2" value="132.368565155081" />
+      <entry key="H4" value="137.14937672380773" />
+      <entry key="D1" value="149.45310632934542" />
+      <entry key="W1" value="159.51690130276157" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="8.058157272913376E-105" />
+      <entry key="S5" value="2.304062713066459E-42" />
+      <entry key="S10" value="1.5179139346703646E-21" />
+      <entry key="S30" value="1.1492532189087854E-7" />
+      <entry key="S60" value="3.3906472580948725E-4" />
+      <entry key="M2" value="0.01865369634628748" />
+      <entry key="M5" value="0.23806648353506085" />
+      <entry key="M10" value="0.6388653925942136" />
+      <entry key="M15" value="0.9164692113520212" />
+      <entry key="M30" value="1.3401408075435095" />
+      <entry key="H1" value="1.6329176167488584" />
+      <entry key="H2" value="1.8059859505343943" />
+      <entry key="H4" value="1.9002091675563182" />
+      <entry key="D1" value="1.982966597044262" />
+      <entry key="W1" value="1.9975566202326422" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0000373120201933" />
+      <entry key="MS500" value="1.13015273064065" />
+      <entry key="S2" value="1.7229526515382276" />
+      <entry key="S5" value="2.745627311248756" />
+      <entry key="S10" value="3.857889803114696" />
+      <entry key="S30" value="7.248240167481321" />
+      <entry key="S60" value="14.270962343138484" />
+      <entry key="M2" value="27.125470479897707" />
+      <entry key="M5" value="50.969122731842035" />
+      <entry key="M10" value="74.7739917354781" />
+      <entry key="M15" value="89.55344707343404" />
+      <entry key="M30" value="111.43198181978146" />
+      <entry key="H1" value="126.36229755217006" />
+      <entry key="H2" value="135.15687331368275" />
+      <entry key="H4" value="140.0404035249416" />
+      <entry key="D1" value="152.43439265474555" />
+      <entry key="W1" value="162.51420025834872" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -31,19 +106,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CollectionExerciseTests.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mlamb/projects/java/software-dev-course-java-basics-4/pom.xml&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.CollectionExerciseTests.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/megan/software-dev-course-java-basics-4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="CollectionExerciseTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-dev-course-java-basics-4" />
@@ -65,6 +151,14 @@
         <item itemvalue="JUnit.CollectionExerciseTests" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,6 +187,9 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
